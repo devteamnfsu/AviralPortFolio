@@ -1,22 +1,32 @@
 html,body
 {
-  color:#e811d6 ;
-  background-color:rgb(245, 245, 245);
-  text-align: center;
+  color:orange ;
+  background-color:#241F22;
+  font-family: 'Didact Gothic'
 }
+
 h1{
-  color:#cc480f;
- font-size: 6.5em;
+  color:#ff7b00;
+  font-size: 3.0em;
 }
 p{
-  color : green ;
+   color: #5cff85;
   font-size: 1.8em;
+  text-align: center;
+}
+ul{
+  font-size: 1.5em;
+}
+ol{
+  font-size: 1.5em;
 }
 h2{
   color:#29dde0;
-  font-size: 3.5em;
+  font-size: 2.5em;
+   text-align: center;
 }
 h3{
-  color:purple;
+  color:#ff7aff;
   font-size:2.5em;
+  text-align: center;
 }
